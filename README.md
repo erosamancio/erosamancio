@@ -52,8 +52,8 @@
 
 | Projeto | O que é | Stack |
 | --- | --- | --- |
-| [**Joyscore**]((https://github.com/Lucascbayma/JoyScore)) | Plataforma web de avaliação de jogos. Participei como fullstack | React · Python |
-| [**Recife Beat**]((https://github.com/erosamancio/Recife_Beat)) | Jogo de ritmo com cultura recifense, editor de beatmap e ranking com QuickSort/MergeSort | C · Raylib |
+| [**Joyscore**](https://github.com/Lucascbayma/JoyScore) | Plataforma web de avaliação de jogos. Participei como fullstack | React · Python |
+| [**Recife Beat**](https://github.com/erosamancio/Recife_Beat) | Jogo de ritmo com cultura recifense, editor de beatmap e ranking com QuickSort/MergeSort | C · Raylib |
 | [**The_Draft**](https://github.com/Lucascbayma/The_Draft) | Roguelike top-down com estética de desenho em papel, salas, bosses e loja | C · Raylib |
 | [**Cicle**](https://github.com/Lucascbayma/CICLE) | Calculadora de emissão de carbono para empresas | Java · SpringBoot |
 
