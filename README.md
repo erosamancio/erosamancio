@@ -57,6 +57,12 @@
 | [**The_Draft**](https://github.com/Lucascbayma/The_Draft) | Roguelike top-down com estética de desenho em papel, salas, bosses e loja | C · Raylib |
 | [**Cicle**](https://github.com/Lucascbayma/CICLE) | Calculadora de emissão de carbono para empresas | Java · SpringBoot |
 
+### Estatísticas
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=erosamancio&show_icons=true&theme=github_dark&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erosamancio&layout=compact&theme=github_dark&hide_border=true&locale=pt-br" alt="Linguagens mais usadas">
+</p>
 
 ---
 
